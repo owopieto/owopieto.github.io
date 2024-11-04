@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owopieto.github.io/DhA/sitemap_index.txt
+Sitemap: https://owopieto.github.io/RbG/sitemap_index.txt
+Sitemap: https://owopieto.github.io/duC/sitemap_index.txt
+Sitemap: https://owopieto.github.io/uvt/sitemap_index.txt
